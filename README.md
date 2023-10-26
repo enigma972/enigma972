@@ -13,7 +13,7 @@ To get started:
 
 ### Visitor count
 
-<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
+<img src="https://profile-counter.glitch.me/enigma972/count.svg" />
 
 <!--
 **enigma972/enigma972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
