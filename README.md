@@ -11,6 +11,10 @@ To get started:
 - 👯 I’m looking to collaborate on *Symfony Framework*
 - 📫 Want to reach out: [lusavuvu.hashnode.dev](https://lusavuvu.hashnode.dev/)
 
+### Visitor count
+
+<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
+
 <!--
 **enigma972/enigma972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
